@@ -10,6 +10,8 @@ namespace GitHub_2024_11_05
     {
         static void Main(string[] args)
         {
+            int i;
+            int j;
         }
     }
 }

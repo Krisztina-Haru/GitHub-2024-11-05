@@ -12,6 +12,9 @@ namespace GitHub_2024_11_05
         {
             int i;
             int j;
+
+            i = int.Parse(Console.ReadLine());
+            j = int.Parse(Console.ReadLine());
         }
     }
 }
